@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Priority-Pulse-Project/static/css/main.4643862b.chunk.css",
-    "main.js": "/Priority-Pulse-Project/static/js/main.6a087e7e.chunk.js",
-    "main.js.map": "/Priority-Pulse-Project/static/js/main.6a087e7e.chunk.js.map",
-    "runtime-main.js": "/Priority-Pulse-Project/static/js/runtime-main.fd5929d2.js",
-    "runtime-main.js.map": "/Priority-Pulse-Project/static/js/runtime-main.fd5929d2.js.map",
-    "static/js/2.e493bf70.chunk.js": "/Priority-Pulse-Project/static/js/2.e493bf70.chunk.js",
-    "static/js/2.e493bf70.chunk.js.map": "/Priority-Pulse-Project/static/js/2.e493bf70.chunk.js.map",
-    "index.html": "/Priority-Pulse-Project/index.html",
-    "static/css/main.4643862b.chunk.css.map": "/Priority-Pulse-Project/static/css/main.4643862b.chunk.css.map",
-    "static/js/2.e493bf70.chunk.js.LICENSE.txt": "/Priority-Pulse-Project/static/js/2.e493bf70.chunk.js.LICENSE.txt"
+    "main.css": "/Priority-pulse/static/css/main.4643862b.chunk.css",
+    "main.js": "/Priority-pulse/static/js/main.6a087e7e.chunk.js",
+    "main.js.map": "/Priority-pulse/static/js/main.6a087e7e.chunk.js.map",
+    "runtime-main.js": "/Priority-pulse/static/js/runtime-main.9f05fb4f.js",
+    "runtime-main.js.map": "/Priority-pulse/static/js/runtime-main.9f05fb4f.js.map",
+    "static/js/2.e493bf70.chunk.js": "/Priority-pulse/static/js/2.e493bf70.chunk.js",
+    "static/js/2.e493bf70.chunk.js.map": "/Priority-pulse/static/js/2.e493bf70.chunk.js.map",
+    "index.html": "/Priority-pulse/index.html",
+    "static/css/main.4643862b.chunk.css.map": "/Priority-pulse/static/css/main.4643862b.chunk.css.map",
+    "static/js/2.e493bf70.chunk.js.LICENSE.txt": "/Priority-pulse/static/js/2.e493bf70.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fd5929d2.js",
+    "static/js/runtime-main.9f05fb4f.js",
     "static/js/2.e493bf70.chunk.js",
     "static/css/main.4643862b.chunk.css",
     "static/js/main.6a087e7e.chunk.js"
